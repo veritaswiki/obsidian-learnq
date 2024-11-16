@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-lingq",
+  "name": "LingQ Integration",
+  "version": "0.1.1",
+  "minAppVersion": "1.7.6",
+  "description": "LingQ integration for language learning in Obsidian",
+  "author": "luxmargos",
+  "authorUrl": "https://github.com/luxmargos",
+  "isDesktopOnly": false
+}

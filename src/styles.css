@@ -1,0 +1,23 @@
+/* 基础样式 */
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.app-header {
+  text-align: center;
+  padding: 20px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.app-main {
+  padding: 20px 0;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .app-container {
+    padding: 10px;
+  }
+}
